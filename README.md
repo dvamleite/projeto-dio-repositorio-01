@@ -7,6 +7,7 @@
 => Tipos de Projetos
 
 #Links Úteis para Conhecer mais 
+<br/>
 [sintax do MarkDown] 
 <br/>
 (https://markdown.net.br/sintaxe-basica/)
